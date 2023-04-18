@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MGLM</string>
+    <string name="user_name">用户名：%s</string>
+    <string name="id">ID：%s</string>
+    <string name="phone">手机号码：%s</string>
+    <string name="amount">累计消费：%s</string>
+    <string name="times">到店次数：%s</string>
+    <string name="total_amount">总消费：%s</string>
+    <string name="last_time">上次到店时间：%s</string>
+    <string name="rebate">返利次数：%s</string>
+</resources>
